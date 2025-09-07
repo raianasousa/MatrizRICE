@@ -28,7 +28,11 @@ Exemplo de features.csv: 👇
 Snippet de código
 
 Feature,Reach,Impact,Confidence,Effort
+
 "Novo Dashboard Analytics",200,3,80,4
+
 "Integração com Slack",1500,2,100,3
+
 "Exportar relatório em PDF",500,1,100,1
+
 "Login com biometria",3000,0.5,50,2
